@@ -1,4 +1,10 @@
-# Hello World!
-### Written with my hands.
+# Android Start
+### Guide for noobs.
 
-![Gif of chelbus](https://i.gifer.com/vUc.gif)
+![Start Screen](res/drawable/start_screen.png)
+
+![Choose activity](res/drawable/choose_activity.png)
+
+![Create project](res/drawable/create_project.png)
+
+![Empty project](res/drawable/empty_project.png)
