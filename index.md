@@ -1,14 +1,14 @@
 # Android Start
 ### Guide for noobs.
 
-Открылась среда разработки. Жмем **Start a new Android Studio project.**
 
 ![Start Screen](res/drawable/start_screen.png)
 
-В первом окне нам необходимо выбрать устройство, для которого мы создаем новый проект, а также шаблон для стартового окна. Для первого проекта нам необходимо выбрать Empty Activity.
+Открылась среда разработки. Жмем **Start a new Android Studio project.**
 
 ![Choose activity](res/drawable/choose_activity.png)
 
+В первом окне нам необходимо выбрать устройство, для которого мы создаем новый проект, а также шаблон для стартового окна. Для первого проекта нам необходимо выбрать Empty Activity.
 
 ![Create project](res/drawable/create_project.png)
 
