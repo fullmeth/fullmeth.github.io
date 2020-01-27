@@ -1,8 +1,7 @@
-# Android Start
-### Guide for noobs.
+# Android Starting Guide
+####1.Установка Android Studio[^1]
 
-
-![Start Screen](res/drawable/start_screen.png)
+[^1]:![Start Screen](res/drawable/start_screen.png)
 
 Открылась среда разработки. Жмем **Start a new Android Studio project.**
 
