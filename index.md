@@ -1,6 +1,7 @@
 # Android Starting Guide
 #### 1. Установка Android Studio
 >placeholder
+
 #### 2. Знакомство со средой разработки
 
 ![Start Screen](res/drawable/start_screen.png)
