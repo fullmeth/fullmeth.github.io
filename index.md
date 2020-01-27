@@ -1,8 +1,11 @@
 ---
 layout: page
-title: Знакомство со средой разработки
+title: Android. Kotlin.
 ---
+#### 1. Установка Android Studio
+>placeholder
 
+#### 2. Знакомство со средой разработки
 ![Start Screen](res/drawable/start_screen.png)
 
 Открылась среда разработки. Жмем **Start a new Android Studio project.**
