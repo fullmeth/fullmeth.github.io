@@ -1,7 +1,9 @@
 # Android Starting Guide
-####1.Установка Android Studio[^1]
+#### 1. Установка Android Studio
+>placeholder
+#### 2. Знакомство со средой разработки
 
-[^1]:![Start Screen](res/drawable/start_screen.png)
+![Start Screen](res/drawable/start_screen.png)
 
 Открылась среда разработки. Жмем **Start a new Android Studio project.**
 
@@ -28,7 +30,6 @@
 
 >Во время работы в Android Studio вы подробнее познакомитесь со всеми её возможностями, так что не пугайтесь если на данный момент у вас много вопросов.
 
----
 Для работы с макетами в Android Studio встроен многофункциональный редактор макетов (Layout Editor), который позволит вам удобно конструировать самые разнообразные макеты пользовательского интерфейса.
 ![Layout Editor](res/drawable/layout_editor.png)
 1. Область с «виджетами» – элементами пользовательского интерфейса;
