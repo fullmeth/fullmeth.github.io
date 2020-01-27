@@ -1,7 +1,7 @@
 # Android Start
 ### Guide for noobs.
 
-Открылась среда разработки. Жмем **Start** a new Android Studio project.
+Открылась среда разработки. Жмем **Start a new Android Studio project.**
 
 ![Start Screen](res/drawable/start_screen.png)
 
