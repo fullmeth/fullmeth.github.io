@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Android. Kotlin.
+title: 
 ---
 ## 1. Установка Android Studio
 >placeholder
