@@ -1,5 +1,6 @@
 ---
 layout: page
+title: <br/>
 ---
 ## 1. Установка Android Studio
 >placeholder
