@@ -110,3 +110,7 @@ title: Get Started with Kotlin on Android
 Android Studio устанавливает приложение на выбранное устройство и запускает его.
 
 Это простое приложение отображает строку «Hello World» на экране виртуального или физического устройства Android.
+
+![Screenshot Hello World](res/drawable/screenshot_hello_world.png)
+
+Вот что у нас вышло.
