@@ -1,11 +1,11 @@
 ---
 layout: page
-title: <br/>
+title:  1. Установка Android Studio
 ---
-## 1. Установка Android Studio
+
 >placeholder
 
-## 2. Знакомство со средой разработки
+# 2. Знакомство со средой разработки
 
 ![Start Screen](res/drawable/start_screen.png)
 
