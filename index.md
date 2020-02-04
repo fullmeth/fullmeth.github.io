@@ -111,7 +111,7 @@ Android Studio устанавливает приложение на выбран
 
 Это простое приложение отображает строку «Hello World» на экране виртуального или физического устройства Android.
 
-![Screenshot Hello World](res/drawable/screenshot_hello_world.png | width=500)
+<img src="res/drawable/screenshot_hello_world.png" width="270" height="480" />
 
 Вот что у нас вышло.
 
