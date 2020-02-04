@@ -1,8 +1,8 @@
 ---
 layout: page
-title:  1. Установка Android Studio
+title: Kotlin
 ---
-
+# 1. Установка Android Studio
 >placeholder
 
 # 2. Знакомство со средой разработки
