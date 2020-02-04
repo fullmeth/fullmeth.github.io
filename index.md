@@ -1,6 +1,5 @@
 ---
 layout: page
-title: 
 ---
 ## 1. Установка Android Studio
 >placeholder
